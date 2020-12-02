@@ -1,5 +1,4 @@
-# Day01 Java初入认识
+# Day03 Java开发环境
 
-- 官方网站: [https://go.java/](https://go.java/)
-- 维基百科: [https://baike.baidu.com/item/Java/85979?fr=aladdin](https://zh.wikipedia.org/wiki/Java)
-- 百度: [https://baike.baidu.com/item/Java/85979?fr=aladdin](https://baike.baidu.com/item/Java/85979?fr=aladdin)
+- 官方JDK环境配置: [https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/](https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/)
+- 菜鸟教程：[https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/](https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/)

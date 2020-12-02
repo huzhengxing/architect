@@ -1,8 +1,10 @@
-# Mouth_01 Java 基础入门
+# Day_01-31 Java 基础入门
 
-## Day_01 Java历史
+- Day_01 Java历史
 
-## Day_02 Java第一个程序HelloWorld
+- Day_02 Java开发环境
+
+- Day_03 Java第一个程序HelloWorld
 
 ## Day_03 语法基础
 
