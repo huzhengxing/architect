@@ -1,12 +1,12 @@
-# Day_01-31 Java 基础入门
+# day_01-31 Java 基础入门
 
-- Day_01 Java历史
+- [day_01 Java初识](https://github.com/huzhengxing/architect-365-days/tree/main/day_01-31/day_01)
 
-- Day_02 Java开发环境
+- [day_02 Java开发环境](https://github.com/huzhengxing/architect-365-days/tree/main/day_01-31/day_02)
 
-- Day_03 Java第一个程序HelloWorld
+- [day_03 Java第一个程序HelloWorld](https://github.com/huzhengxing/architect-365-days/tree/main/day_01-31/day_03)
 
-## Day_03 语法基础
+- day_04 语法基础
 
 ## Day_04 流程控制
 

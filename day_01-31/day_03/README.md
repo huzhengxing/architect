@@ -13,7 +13,7 @@
 3. 执行`javac HelloWorld.java`命令，编译成.class文件；
 4. 通过`java HelloWorld`命令执行class文件，就会输出HelloWord;
    ```bash  
-      % javac HelloWorld.java 
-      % java HelloWorld
-      Hello World
+   % javac HelloWorld.java 
+   % java HelloWorld
+   Hello World
    ```
